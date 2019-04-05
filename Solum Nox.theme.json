@@ -1,20 +1,23 @@
 {
+
     "name": "Solum Nox",
     "style": "Dark",
+
     "author": [
         {
             "name": "Marshall Vaughn",
             "url": "https://github.com/marshallvaughn/Solum-Nox-Theme"
         }
     ],
-    "version": "1.0",
+
+    "version": "0.9",
 
     "editor": {
         "backgroundColor": "#282C34",
         "caretColor": "#61AFEF",
         "selection": {
             "backgroundColor": "#383d4a",
-            "unfocusedBackgroundColor": "#2c333e"
+            "unfocusedBackgroundColor": "#2C333E"
         },
         "highlight": {
             "backgroundColor": "#314367",
@@ -24,9 +27,9 @@
 
     "savedSearchesSidebar": {
         "color": "#61AFEF",
-        "backgroundColor": "#21252b",
-        "highlightedBackgroundColor": "#2c333e",
-        "border": "#181a1f",
+        "backgroundColor": "#21252B",
+        "highlightedBackgroundColor": "#2C333E",
+        "border": "#181A1F",
         "iconColors": {
             "default": "#ABB2BF"
         }
@@ -34,17 +37,16 @@
 
     "resultsList": {
         "color": "#ABB2BF",
-        "backgroundColor": "#181a1f",
-        "border": "#181a1f",
-        "alternateBackgroundColor": "#21252b",
+        "backgroundColor": "#181A1F",
+        "border": "#181A1F",
+        "alternateBackgroundColor": "#21252B",
         "selection": {
             "color": "#61AFEF",
             "backgroundColor": "#314367",
             "unfocusedColor": "#ABB2BF",
-            "unfocusedBackgroundColor": "#2c313b",
+            "unfocusedBackgroundColor": "#2C313B",
         },
     },
-
 
     "styles": {
 
@@ -83,22 +85,22 @@
         },
 
         "horizontalRule": {
-            "syntax": { "color": "#222", "backgroundColor": "#000" }
+            "syntax": { "color": "#181A1F", "backgroundColor": "#21252B" }
         },
 
         "codeBlock": {
             "color": "#56B6C2",
-            "backgroundColor": "#2c313b"
+            "backgroundColor": "#2C313B"
         },
 
         "inlineCode": {
             "color": "#56B6C2",
-            "backgroundColor": "#2c313b"
+            "backgroundColor": "#2C313B"
         },
 
         "blockquote": {
             "color": "#98C379",
-            "backgroundColor": "#2c313b"
+            "backgroundColor": "#2C313B"
         },
 
         "list": {
@@ -117,11 +119,11 @@
         },
         
         "image": {
-            "color": "#cc99cc"
+            "color": "#C678DD"
         },
         
         "footnote": {
-            "color": "#cc99cc"
+            "color": "#C678DD"
         },
         
         "link": {
@@ -135,7 +137,7 @@
         },
         
         "comment": {
-            "color": "#5e687a",
+            "color": "#5E687A",
             "font": { "style": "italic" }
         }
     }
