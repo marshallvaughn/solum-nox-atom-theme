@@ -3,4 +3,8 @@ A theme for [The Archive](https://zettelkasten.de/the-archive/), a brilliant pie
 
 It's based heavily and shamelessly on Atom's One Dark theme.
 
-![Color Chips](https://github.com/marshallvaughn/Solum-Nox-Theme/raw/master/resources/Solum-Nox-Screenshot.png)
+### Colors
+![Color Chips](https://github.com/marshallvaughn/Solum-Nox-Theme/raw/master/resources/Solum-Nox-Colors.png)
+
+### Screenshot
+![Screenshot](https://github.com/marshallvaughn/Solum-Nox-Theme/raw/master/resources/Solum-Nox-Screenshot.png)
