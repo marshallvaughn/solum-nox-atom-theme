@@ -1,0 +1,142 @@
+{
+    "name": "Solum Nox",
+    "style": "Dark",
+    "author": [
+        {
+            "name": "Marshall Vaughn",
+            "url": "https://github.com/marshallvaughn/Solum-Nox-Theme"
+        }
+    ],
+    "version": "1.0",
+
+    "editor": {
+        "backgroundColor": "#282C34",
+        "caretColor": "#61AFEF",
+        "selection": {
+            "backgroundColor": "#383d4a",
+            "unfocusedBackgroundColor": "#2c333e"
+        },
+        "highlight": {
+            "backgroundColor": "#314367",
+            "unfocusedBackgroundColor": "#383d4a"
+        }
+    },
+
+    "savedSearchesSidebar": {
+        "color": "#61AFEF",
+        "backgroundColor": "#21252b",
+        "highlightedBackgroundColor": "#2c333e",
+        "border": "#181a1f",
+        "iconColors": {
+            "default": "#ABB2BF"
+        }
+    },
+
+    "resultsList": {
+        "color": "#ABB2BF",
+        "backgroundColor": "#181a1f",
+        "border": "#181a1f",
+        "alternateBackgroundColor": "#21252b",
+        "selection": {
+            "color": "#61AFEF",
+            "backgroundColor": "#314367",
+            "unfocusedColor": "#ABB2BF",
+            "unfocusedBackgroundColor": "#2c313b",
+        },
+    },
+
+
+    "styles": {
+
+        "base": {
+            "color": "#ABB2BF"
+        },
+
+        "h1": {
+            "font": { "style": "bold" },
+            "color": "#E06C75"
+        },
+
+        "h2": {
+            "font": { "style": "bold" },
+            "color": "#E06C75"
+        },
+
+        "h3": {
+            "font": { "style": "bold" },
+            "color": "#E06C75"
+        },
+
+        "h4": {
+            "font": { "style": "bold" },
+            "color": "#E06C75"
+        },
+
+        "h5": {
+            "font": { "style": "bold" },
+            "color": "#E06C75"
+        },
+
+        "h6": {
+            "font": { "style": "bold" },
+            "color": "#E06C75"
+        },
+
+        "horizontalRule": {
+            "syntax": { "color": "#222", "backgroundColor": "#000" }
+        },
+
+        "codeBlock": {
+            "color": "#56B6C2",
+            "backgroundColor": "#2c313b"
+        },
+
+        "inlineCode": {
+            "color": "#56B6C2",
+            "backgroundColor": "#2c313b"
+        },
+
+        "blockquote": {
+            "color": "#98C379",
+            "backgroundColor": "#2c313b"
+        },
+
+        "list": {
+            "syntax": { "color" : "#6699cc" }
+        },
+
+        "emphasis": {
+            "font": { "style": "italic" },
+            "color": "#E5C07B",
+            "syntax": { "color": "#E5C07B" }
+        },
+        
+        "strong": {
+            "font": { "style": "bold" },
+            "color": "#C678DD",
+        },
+        
+        "image": {
+            "color": "#cc99cc"
+        },
+        
+        "footnote": {
+            "color": "#cc99cc"
+        },
+        
+        "link": {
+            "color": "#788FCA",
+            "syntax": { "color": "#ABB2BF" }
+        },
+        
+        "referenceDefinition": {
+            "color": "#9BC36F",
+            "syntax": { "color": "#ABB2BF" }
+        },
+        
+        "comment": {
+            "color": "#5e687a",
+            "font": { "style": "italic" }
+        }
+    }
+}
